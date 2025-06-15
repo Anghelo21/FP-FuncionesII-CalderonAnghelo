@@ -59,6 +59,6 @@ int main(){
 				break;
 		}
 	} while(puntaje<=2);
-	cout<<"¡¡¡GANASTE!!!"<<endl;
+	cout<<"¡¡¡ GANASTE !!!"<<endl;
 	return 0;
 }
