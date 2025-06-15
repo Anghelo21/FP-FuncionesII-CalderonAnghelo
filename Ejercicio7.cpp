@@ -24,7 +24,7 @@ int main(){
 			cout<<"EMPATE"<<endl;
 		}
 	} while(c1 < 3 && c2 < 3);
-	cout<<"ENHORABUENA :D"<<endl;
+	cout<<" ENHORABUENA :D "<<endl;
 	if (c1==3){
 		cout<<"El juego lo gana el jugador 1"<<endl;
 	} else if(c2==3){
